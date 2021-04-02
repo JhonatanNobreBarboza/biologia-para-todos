@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <Container fluid={true}>
       <Head>
-        <title>ReactJS with react-bootstrap</title>
+        <title>Projeto Conhecer para Proteger</title>
         <link rel="icon" href="/favicon-32x32.png" />
       </Head>
       <Container fluid={true}>
