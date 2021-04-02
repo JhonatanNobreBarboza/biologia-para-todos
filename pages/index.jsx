@@ -11,7 +11,7 @@ export default function Home() {
       <Container fluid={true}>
         <Jumbotron fluid={true}>
           <Container>
-            <h1>Biologia Para todos</h1>
+            <h1>Conhecer para Proteger</h1>
             <p>
               Teste seu conhecimento em um de nossos questionários e veja como
               você se sai.
